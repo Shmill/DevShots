@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	font: 16px Arial, sans-serif;
+}
+
+#headTop{
+	background-color:#282828;
+	color:#FFF;
+	font-family: "Arial";
+	
+}
+
